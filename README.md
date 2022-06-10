@@ -9,5 +9,5 @@ pytorch实现AlexNet，在mnist数据集上实验，用精确率、召回率等�
 # 采用scikit-learn模块对10个类分别绘制PR曲线和ROC曲线
 ![image](https://user-images.githubusercontent.com/64317292/173069284-ec52df7d-d99f-4137-ba3e-33acdf78dcff.png)
 ![image](https://user-images.githubusercontent.com/64317292/173069460-0b930eac-e9de-46c0-b2f5-71d23343dddf.png)
->- ..........
+# ..........
 ![image](https://user-images.githubusercontent.com/64317292/173069575-e7422544-1718-4e3f-b846-b51298568ec4.png)
